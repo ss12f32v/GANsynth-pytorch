@@ -1,6 +1,5 @@
 # GANsynth-pytorch
-PyTorch  implementation of GANsynth  
-
+A simplified PyTorch implementation of GANsynth from magenta.
 
 ## Note
 This repo only support the best setting in the GANsynth paper which is a simple version comparing to orginal Tensorflow version by magenta team.
@@ -25,4 +24,4 @@ Use Inference notebook to load the model and generate audio.
 
 ## Reference 
 - https://github.com/shanexn/pytorch-pggan
-- https://arxiv.org/abs/1902.08710
+- [GANsynth ICLR Paper](https://arxiv.org/abs/1902.08710)
