@@ -25,5 +25,6 @@ Use Inference notebook to load the model and generate audio.
 
 ## Reference 
 - https://github.com/shanexn/pytorch-pggan
+- https://github.com/kwon-young/pytorch-nsynth
 - [GANsynth Magenta](https://github.com/tensorflow/magenta/tree/master/magenta/models/gansynth)
 - [GANsynth ICLR Paper](https://arxiv.org/abs/1902.08710)
